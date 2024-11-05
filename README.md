@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CIBI917
+- 👋 Hi, I’m @CIBIRAJ
 - 👀 I’m interested in Electronics
 - 🌱 I’m currently learning PCB Designing
 - 💞️ I’m looking to collaborate on Startup ideas
